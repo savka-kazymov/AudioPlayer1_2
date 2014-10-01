@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Audio Player</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sd_playlist">Playlist of a SD-card songs</string>
+    <string name="vk_playlist">Playlist of a VK.COM songs</string>
+    <string name="stream_playlist">Playlist of an online streams</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="change_drawer_title">Playlist</string>
+
+    <array name="playlist">
+    <item>SD-CARD</item>
+    <item>VK.COM</item>
+    <item>ONLINE STREAM</item>
+    </array>
+
+</resources>

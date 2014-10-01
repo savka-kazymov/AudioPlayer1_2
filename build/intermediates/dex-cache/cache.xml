@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-50dbc0000747909248640db85f1c17f27ce3ced8.jar"
+        jar="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\pre-dexed\debug\classes-311ac01a4d589eb469f440e6c08535ac4cdde1b1.jar"
+        jar="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\exploded-aar\AudioPlayer1_2_30_09\vksdk_library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bb7746c9fd26bd981d038c37846b0c27f7e2a3b1"/>
+    <item
+        dex="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-153e16b838319135ec34476c7290e64dfdbe197b.jar"
+        jar="C:\Users\naz\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\pre-dexed\debug\classes-7cffb497faeb96bb62f67be45c2d4c0130ac6682.jar"
+        jar="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="D:\job\30_09_14\AudioPlayer1_2_30_09\app\build\intermediates\pre-dexed\debug\gson-2.2.4-695c8d86f18ec47dfe0395fd7fa5774dcb78db5a.jar"
+        jar="D:\job\30_09_14\AudioPlayer1_2_30_09\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8"/>
+
+</pre-dex-items>
